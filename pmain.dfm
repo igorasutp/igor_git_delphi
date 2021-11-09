@@ -23,7 +23,7 @@ object Fpmain: TFpmain
         Caption = 'p1'
       end
       object N21: TMenuItem
-        Caption = #1079'2'
+        Caption = 'p2'
       end
     end
     object N2: TMenuItem
